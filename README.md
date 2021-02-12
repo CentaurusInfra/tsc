@@ -1,2 +1,2 @@
 # tsc
-Centaurus Technical Oversight Committee (TSC)
+Centaurus Technical Steering Committee (TSC)
