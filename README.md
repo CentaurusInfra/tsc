@@ -57,7 +57,7 @@ Meeting ID: 949 4806 7138
 
 ##  Meeting Agenda and Minutes
 
-[Meeting Agenda and minutes](https://docs.google.com/document/d/1jpoKT12jf2jTf-2EJSAl4iTdA7Aoj_uiI19qIaECNFc/edit#). 
+[Meeting Working Document](https://docs.google.com/document/d/1nfGJ_9nudQWjbEx2f21_kkf15quuw7fOQaqF_EtQc-I/edit?usp=sharing)
 
 This includes the meeting agenda and meeting notes from all previous meetings.
 
