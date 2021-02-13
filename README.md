@@ -16,19 +16,25 @@ The Centaurus TSC is the technical governing body of the CentaurusInfra Project 
 
 ##  Members
 
+TSC Members:
+
 * Deepak Vij 
 
 * Nikita Ivanov 
 
 * Prashant Mishra 
 
-*  Sanil  kumar 
+* Sanil  kumar 
 
 * Schahram Dustdar 
 
 * Stefan Nastic 
 
-* XiaoNing Ding   (Chair)
+* XiaoNing Ding
+
+TSC Chair: Xiaoning Ding
+
+TSC Secretary: Mengni Zhang
 
 
 ##  Meetings
