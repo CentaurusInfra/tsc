@@ -28,7 +28,7 @@ The Centaurus TSC is the technical governing body of the CentaurusInfra Project 
 
 * Stefan Nastic 
 
-* XiaoNing Ding   (**Chair**)
+* XiaoNing Ding   (Chair)
 
 
 ##  Meetings
@@ -36,10 +36,9 @@ The Centaurus TSC is the technical governing body of the CentaurusInfra Project 
 The TSC meets on the last Tuesday of every month at 8AM PT (USA Pacific Time; [Convert to local time zone](http://www.thetimezoneconverter.com/?t=8:00AM&tz=San%20Francisco)).
 
 
-<![endif]--> Join Zoom Meeting  
-[https://futurewei.zoom.us/j/94948067138?from=addon](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffuturewei.zoom.us%2Fj%2F94948067138%3Ffrom%3Daddon&data=04%7C01%7Cxiaoning.ding%40futurewei.com%7Cb3fbd6cc397a4ae0eb5f08d8c6e618ac%7C0fee8ff2a3b240189c753a1d5591fedc%7C1%7C0%7C637478038865544667%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=gfnrQRYFl1JCe8Fgg9dwZUDJ0fvGBU5oPbL%2FAX4JR3Y%3D&reserved=0)  
+[Join Zoom Meeting](https://futurewei.zoom.us/j/94948067138)
   
-Meeting ID: 949 4806 7138  
+Zoom Meeting ID: 949 4806 7138  
 One tap mobile  
 >+12532158782,,94948067138# US (Tacoma)  
 >+14086380968,,94948067138# US (San Jose)  
@@ -55,11 +54,10 @@ Dial by your location
 >877 853 5247 US Toll-free  
 >888 788 0099 US Toll-free  
 Meeting ID: 949 4806 7138  
-Find your local number: [https://futurewei.zoom.us/u/adrkzeXUFl](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Ffuturewei.zoom.us%2Fu%2FadrkzeXUFl&data=04%7C01%7Cxiaoning.ding%40futurewei.com%7Cb3fbd6cc397a4ae0eb5f08d8c6e618ac%7C0fee8ff2a3b240189c753a1d5591fedc%7C1%7C0%7C637478038865544667%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=5Xk3vGBk6X6eQjL0MoTqDkMlD8ifMEvwbanqQz4j3Jk%3D&reserved=0)
 
-##  Meeting Documents
+##  Meeting Agenda and Minutes
 
-[Meeting Agenda and notes](https://docs.google.com/document/d/1jpoKT12jf2jTf-2EJSAl4iTdA7Aoj_uiI19qIaECNFc/edit#). 
+[Meeting Agenda and minutes](https://docs.google.com/document/d/1jpoKT12jf2jTf-2EJSAl4iTdA7Aoj_uiI19qIaECNFc/edit#). 
 
 This includes the meeting agenda and meeting notes from all previous meetings.
 
