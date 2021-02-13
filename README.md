@@ -59,15 +59,19 @@ Find your local number: [https://futurewei.zoom.us/u/adrkzeXUFl](https://nam11.s
 
 ##  Meeting Documents
 
-[Meeting Agenda and notes](https://docs.google.com/document/d/1jpoKT12jf2jTf-2EJSAl4iTdA7Aoj_uiI19qIaECNFc/edit#). This includes the meeting agenda and meeting notes from all previous meetings.
+[Meeting Agenda and notes](https://docs.google.com/document/d/1jpoKT12jf2jTf-2EJSAl4iTdA7Aoj_uiI19qIaECNFc/edit#). 
+
+This includes the meeting agenda and meeting notes from all previous meetings.
 
 
 ##  Mailing List
 
 centaurus-tsc@googlegroups.com
+
 To join: https://groups.google.com/g/centaurus-tsc
 
 ## Slack
 
 https://centaurusinfra.slack.com
+
 Slack invitation: [link](https://join.slack.com/t/centaurusinfra/shared_invite/zt-lfj66f0z-9~bZbZU4Z_aUQKNb_9aZYQ)
