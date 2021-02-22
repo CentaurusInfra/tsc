@@ -2,17 +2,14 @@
 
 The Centaurus TSC is the technical governing body of the CentaurusInfra Project in Linux Foundation. It oversees the project execution and has the following responsibility:
 
-* define and maintain the technical vision for Centaurus Community,
+* coordinating the technical direction of the project;
+* approving sub-projects and removing sub-projects;
+* creating sub-committees or working groups to focus on cross-project technical issues and requirements;
+* appointing representatives to work with other open source or open standards communities;
+* establishing community norms, workflows, issuing releases, and security issue reporting policies;
+* approving and implementing policies and processes for contributing; and
+* coordinating any marketing, events, or communications regarding the project.
 
-* approve new projects and creating a conceptual architecture for the projects,
-
-* align projects and remove or archive projects,
-
-* accept feedback from communities & users and mapping to projects,
-
-* align interfaces to components and/or projects and
-
-* define and enforce common technical practices across Centaurus projects.
 
 ##  Members
 
