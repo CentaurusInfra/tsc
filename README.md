@@ -64,6 +64,10 @@ Meeting ID: 949 4806 7138
 
 This includes the meeting agenda and meeting notes from all previous meetings.
 
+##  Special Interest Groups (SIGs)
+
+There are several Special Interest Groups (SIGs) in Centaurus community focusing on different areas of work.  Please see the [SIG List](special-interest-groups.md) for the introduction to each SIG, and links to the SIG meetings and documents.
+
 
 ##  Mailing List
 
